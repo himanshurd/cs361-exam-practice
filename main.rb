@@ -1,6 +1,6 @@
 # CS 361 Exam Practice
 
-class Thang
+class Cube
 
   def initialize(x, y, b)
     @width = x
